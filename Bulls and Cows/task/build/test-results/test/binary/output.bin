@@ -1,0 +1,41 @@
+[1;31m
+Start test 1[0m
+)Please, enter the secret code's length:
+> 1
+Okay, let's start a game!
+	Turn 1:
+> 0
+Grade: None
+	Turn 2:
+> 1
+Grade: None
+	Turn 3:
+> 2
+Grade: None
+	Turn 4:
+> 3
+Grade: None
+	Turn 5:
+> 4
+Grade: None
+	Turn 6:
+> 5
+Grade: None
+	Turn 7:
+> 6
+Grade: None
+	Turn 8:
+> 7
+Grade: None
+	Turn 9:
+> 8
+Grade: None
+
+Turn 10:
+> 9
+Grade: 1 bulls
+/Congratulations! You guessed the secret code.
+[1;31m
+Start test 2[0m
+)Please, enter the secret code's length:
+> 4
